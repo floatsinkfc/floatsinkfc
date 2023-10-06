@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [floatsink.me](floatsink.me)
+- 👨‍💻 All of my projects are available at [floatsink.me](https://floatsink.me/)
 
 - 📫 How to reach me **floatsinkfc@gmail.com**
 

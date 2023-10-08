@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zi Jun Wang</h1>
-<h3 align="center">CS Freshman @ University of Illinois Chicago</h3>
+<h3 align="center"><a href="uic.edu" target="_blank">CS Freshman @ University of Illinois Chicago</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floatsinkfc&label=Profile%20views&color=0e75b6&style=flat" alt="floatsinkfc" /> </p>
 

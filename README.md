@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floatsinkfc&label=Profile%20views&color=0e75b6&style=flat" alt="floatsinkfc" /> </p>
 
-- 🌱 I’m currently learning **React and Tailwind CSS**
+- 🌱 I’m currently learning **React and JavaScript**
 
 - 👨‍💻 All of my projects are available at [floatsink.me](https://floatsink.me/)
 

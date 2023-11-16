@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zi Jun Wang</h1>
 <h3 align="center"><a href="https://www.uic.edu/" target="_blank">CS Freshman @ University of Illinois Chicago</a></h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![floatsinkfc's GitHub stats](https://github-readme-stats.vercel.app/api?username=floatsinkfc)](https://github.com/floatsinkfc/github-readme-stats)
 
 - 🌱 I’m currently learning **React and JavaScript**
 

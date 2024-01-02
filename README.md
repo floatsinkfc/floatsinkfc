@@ -4,7 +4,7 @@ Hi, My name is Zi ![](https://user-images.githubusercontent.com/18350557/1763097
 Website Developer
 -----------------
 
-*   🖥️  See my portfolio at [my website](http://floatsink.me)
+*   🖥️  See my portfolio at [my website](https://www.zijunw.com/)
 *   ✉️  You can contact me at [zijunwang0917@gmail.com](mailto:zijunwang0917@gmail.com)
 *   🚀  I'm currently working on [UIC Blackboard Extension](http://github.com/zijunw04/uic-blackboard-extension)
 *   🧠  I'm learning JavaScript and Backend
